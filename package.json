@@ -23,5 +23,8 @@
   "homepage": "https://github.com/bsisomphane/Profile-Generator#readme",
   "devDependencies": {
     "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
