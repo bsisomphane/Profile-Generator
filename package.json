@@ -1,0 +1,24 @@
+{
+  "name": "profilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsisomphane/Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsisomphane/Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/bsisomphane/Profile-Generator#readme"
+}
