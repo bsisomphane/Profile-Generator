@@ -21,6 +21,8 @@
      
   ## usage:
    Open the command line and use inquirer to answer prompts about your team.
+
+   Please see walkthrough video here: https://watch.screencastify.com/v/0hbX5GiyAkODVgqN99Bq
      
   ## test:
   Run npm tests to run Jest tests on constructors
