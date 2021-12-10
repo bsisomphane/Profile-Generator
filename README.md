@@ -22,6 +22,9 @@
    Open the command line and use inquirer to answer prompts about your team.
    
    Please see walk through video here: https://watch.screencastify.com/v/0hbX5GiyAkODVgqN99Bq
+   
+   ![image](https://user-images.githubusercontent.com/93100824/145496687-027b8e94-db0a-4ce4-9278-ec9719f740e5.png)
+
      
   ## test:
   Run npm tests to run Jest tests on constructors
